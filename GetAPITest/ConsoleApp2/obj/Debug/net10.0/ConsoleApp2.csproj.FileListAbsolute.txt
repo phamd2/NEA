@@ -1,0 +1,42 @@
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/Users/duy/Desktop/Theory Coding/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/Users/duy/Documents/NEA work/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
