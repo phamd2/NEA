@@ -119,7 +119,7 @@ namespace TransportAndWeatherApp
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"[Open-Meteo API Error]: {ex.Message}");
+                Console.WriteLine($"Open Meteo API Error: {ex.Message}");
                 return null;
             }
         }

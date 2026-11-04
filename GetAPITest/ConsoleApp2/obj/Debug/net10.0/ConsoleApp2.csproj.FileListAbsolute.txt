@@ -40,3 +40,4 @@
 /Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
 /Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
 /Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
+/Users/duy/Documents/NEA/GetAPITest/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.sourcelink.json
