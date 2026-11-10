@@ -1,0 +1,5 @@
+/Users/duy/Documents/NEA/RouteService.cs/obj/Debug/net10.0/RouteService.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duy/Documents/NEA/RouteService.cs/obj/Debug/net10.0/RouteService.cs.AssemblyInfoInputs.cache
+/Users/duy/Documents/NEA/RouteService.cs/obj/Debug/net10.0/RouteService.cs.AssemblyInfo.cs
+/Users/duy/Documents/NEA/RouteService.cs/obj/Debug/net10.0/RouteService.cs.csproj.CoreCompileInputs.cache
+/Users/duy/Documents/NEA/RouteService.cs/obj/Debug/net10.0/RouteService.cs.sourcelink.json

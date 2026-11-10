@@ -1,6 +1,9 @@
-﻿namespace Database_Controller;
+﻿using System.Globalization;
 
-public class Class1
+namespace Database_Controller;
+
+public class StationData
 {
     
 }
+
